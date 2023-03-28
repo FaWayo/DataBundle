@@ -6,6 +6,7 @@
 DataBundle/appsettings.json
 
 # User-specific files
+*.config
 *.rsuser
 *.suo
 *.user
